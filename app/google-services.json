@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838081049248",
+    "project_id": "zukazuka-d0339",
+    "storage_bucket": "zukazuka-d0339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838081049248:android:c667df82cc7c07b20a4fc5",
+        "android_client_info": {
+          "package_name": "com.example.registrationn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838081049248-68c6hfldr8l4gmiupo87pin742kr53fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRLSgC9GQ4MODO71hSA5fY0YH6XswEOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838081049248-68c6hfldr8l4gmiupo87pin742kr53fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
